@@ -1,0 +1,6 @@
+@Syspos.Backen_HostAddress = http://localhost:5118
+
+GET {{Syspos.Backen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
